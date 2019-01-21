@@ -1,0 +1,1311 @@
+id,title,city_id,ward_no
+1,Kempegowda,1,1
+2,Chowdeshwari,1,2
+3,Atturu,1,3
+4,"Yelahanka Satellite Town",1,4
+5,Jakkuru,1,5
+6,Thanisandra,1,6
+7,Byatarayanapura,1,7
+8,Kodigehalli,1,8
+9,Vidyaranyapura,1,9
+10,"Dodda Bommasandra",1,10
+11,"Kuvempu Nagar",1,11
+12,Shettihalli,1,12
+13,Mallassandra,1,13
+14,Bagalakunte,1,14
+15,"T Dasarahalli",1,15
+16,Jalahalli,1,16
+17,"J P Park",1,17
+18,"Radhakrishna Temple",1,18
+19,"Sanjay Nagar",1,19
+20,"Ganga Nagar",1,20
+21,Hebbal,1,21
+22,"Vishwanath Nagenahalli",1,22
+23,Nagavara,1,23
+24,"HBR Layout",1,24
+25,Horamavu,1,25
+26,"Ramamurthy Nagar",1,26
+27,Banasavadi,1,27
+28,Kammanahalli,1,28
+29,Kacharkanahalli,1,29
+30,Kadugondanahalli,1,30
+31,"Kushal Nagar",1,31
+32,"Kaval Bairasandra",1,32
+33,Manorayanapalya,1,33
+34,Gangenahalli,1,34
+35,"Aramane Nagara",1,35
+36,Mattikere,1,36
+37,Yeshwanthpura,1,37
+38,HMT,1,38
+39,Chokkasandra,1,39
+40,"Dodda Bidarakallu",1,40
+41,"Peenya Industrial Area",1,41
+42,"Lakshmi Devi Nagar",1,42
+43,"Nandini Layout",1,43
+44,"Marappana Palya",1,44
+45,Malleswaram,1,45
+46,"Jayachamarajendra Nagar",1,46
+47,"Devara Jeevanahalli",1,47
+48,"Muneshwara Nagar",1,48
+49,Lingarajapura,1,49
+50,Benniganahalli,1,50
+51,Vijnanapura,1,51
+52,"K R Puram",1,52
+53,Basavanapura,1,53
+54,Hoodi,1,54
+55,Devasandra,1,55
+56,"A Narayanapura",1,56
+57,"C V Raman Nagar",1,57
+58,"New Tippasandra",1,58
+59,"Maruthi Seva Nagar",1,59
+60,Sagayarapuram,1,60
+61,"S K Garden",1,61
+62,"Ramaswamy Palya",1,62
+63,Jayamahal,1,63
+64,"Rajamahal Guttahalli",1,64
+65,"Kadu Malleshwara",1,65
+66,"Subramanya Nagar",1,66
+67,Nagapura,1,67
+68,Mahalakshimpuram,1,68
+69,Laggere,1,69
+70,Rajagopalanagar,1,70
+71,Heggenahali,1,71
+72,Herohalli,1,72
+73,Kottigepalya,1,73
+74,"Shakthi Ganapathi Nagar",1,74
+75,"Shankar Matt",1,75
+76,"Gayathri Nagar",1,76
+77,"Dattatreya Temple",1,77
+78,Pulikeshinagar,1,78
+79,"Sarvagna Nagar",1,79
+80,"Hoysala Nagar",1,80
+81,"Vijnana Nagar",1,81
+82,"Garudachar Palya",1,82
+83,Kadugodi,1,83
+84,Hagadur,1,84
+85,"Dodda Nekkundi",1,85
+86,Marathahalli,1,86
+87,"HAL Airport",1,87
+88,"Jeevanbhima Nagar",1,88
+89,Jogupalya,1,89
+90,Ulsoor,1,90
+91,"Bharathi Nagar",1,91
+92,"Shivaji Nagar",1,92
+93,"Vasanth Nagar",1,93
+94,"Gandhi Nagar",1,94
+95,"Subhash Nagar",1,95
+96,Okalipuram,1,96
+97,"Dayananda Nagar",1,97
+98,"Prakash Nagar",1,98
+99,"Rajaji Nagar",1,99
+100,"Basaveshwara Nagar",1,100
+101,Kamakshipalya,1,101
+102,"Vrushabhavathi Nagar",1,102
+103,Kaveripura,1,103
+104,"Govindaraja Nagar",1,104
+105,"Agrahara Dasarahalli",1,105
+106,"Dr Raj Kumar",1,106
+107,Shivanagar,1,107
+108,Sriramamandira,1,108
+109,Chickpet,1,109
+110,"Sampangiram Nagar",1,110
+111,"Shantala Nagar",1,111
+112,Domlur,1,112
+113,"Konena Agrahara",1,113
+114,Agaram,1,114
+115,Vannarpet,1,115
+116,Neelasandra,1,116
+117,"Shanthi Nagar",1,117
+118,"Sudham Nagara",1,118
+119,"Dharmaraya Swamy Temple",1,119
+120,Cottonpete,1,120
+121,Binnipet,1,121
+122,"Kempapura Agrahara",1,122
+123,Vijayanagar,1,123
+124,Hosahalli,1,124
+125,Marenahalli,1,125
+126,"Maruthi Mandira",1,126
+127,Mudalapalya,1,127
+128,Nagarabhavi,1,128
+129,"Jnana Bharathi",1,129
+130,Ullalu,1,130
+131,Nayandahalli,1,131
+132,Attiguppe,1,132
+133,"Hampi Nagar",1,133
+134,"Bapuji Nagar",1,134
+135,Padarayanapura,1,135
+136,Jagajivanaramnagar,1,136
+137,Rayapuram,1,137
+138,Chalavadipalya,1,138
+139,"K R Market",1,139
+140,Chamrajapet,1,140
+141,"Azad Nagar",1,141
+142,Sunkenahalli,1,142
+143,Vishveshwarapura,1,143
+144,Siddapura,1,144
+145,"Hombegowda Nagar",1,145
+146,Lakkasandra,1,146
+147,Adugodi,1,147
+148,Ejipura,1,148
+149,Varthur,1,149
+150,Bellanduru,1,150
+151,Koramangala,1,151
+152,"Suddagunte Palya",1,152
+153,Jayanagar,1,153
+154,Basavanagudi,1,154
+155,"Hanumantha Nagar",1,155
+156,Srinagar,1,156
+157,"Gali Anjaneya Temple",1,157
+158,"Deepanjali Nagar",1,158
+159,Kengeri,1,159
+160,"Rajarajeshwari Nagar",1,160
+161,Hosakerehalli,1,161
+162,Girinagar,1,162
+163,Katriguppe,1,163
+164,"Vidya Peeta",1,164
+165,"Ganesh Mandir",1,165
+166,Karisandra,1,166
+167,Yediyur,1,167
+168,"Pattabhiram Nagar",1,168
+169,Byrasandra,1,169
+170,"Jayanagar East",1,170
+171,Gurappanpalya,1,171
+172,Madivala,1,172
+173,Jakkasandra,1,173
+174,"HSR Layout",1,174
+175,Bommanahalli,1,175
+176,"BTM Layout",1,176
+177,"JP Nagar",1,177
+178,Sarakki,1,178
+179,"Shakambari Nagar",1,179
+180,"Banashankari Temple",1,180
+181,"Kumaraswamy Layout",1,181
+182,"Padmanabha Nagar",1,182
+183,Chikallasandra,1,183
+184,Uttarahalli,1,184
+185,Yelchenahalli,1,185
+186,Jaraganahalli,1,186
+187,Puttenahalli,1,187
+188,Bilekahalli,1,188
+189,Hongasandra,1,189
+190,Mangamannapalya,1,190
+191,Singasandra,1,191
+192,Begur,1,192
+193,Arekere,1,193
+194,Gottigere,1,194
+195,Konankunte,1,195
+196,Anjanapura,1,196
+197,Vasanthapura,1,197
+198,Hemmigepura,1,198
+199,Other,1,300
+200,Other,1,300
+201,Other,1,300
+208,W9,3,9
+209,W25,3,25
+210,W51,3,51
+211,W56,3,56
+212,W6,3,6
+213,W7,3,7
+214,W13,3,13
+215,W27,3,27
+216,W12,3,12
+217,W11,3,11
+218,W17,3,17
+219,W26,3,26
+220,W21,3,21
+221,W24,3,24
+222,W16,3,16
+223,W30,3,30
+224,W34,3,34
+225,W29,3,29
+226,W35,3,35
+227,W40,3,40
+228,W28,3,28
+229,W36,3,36
+230,W46,3,46
+231,W37,3,37
+232,W38,3,38
+233,W39,3,39
+234,W63,3,63
+235,W50,3,50
+236,W19,3,19
+237,W31,3,31
+238,W33,3,33
+239,W42,3,42
+240,W43,3,43
+241,W45,3,45
+242,W54,3,54
+243,W20,3,20
+244,W55,3,55
+245,W41,3,41
+246,W47,3,47
+247,W48,3,48
+248,W52,3,52
+249,W53,3,53
+250,W4,3,4
+251,W5,3,5
+252,W10,3,10
+253,W3,3,3
+254,W2,3,2
+255,W1,3,1
+256,W15,3,15
+257,W22,3,22
+258,W49,3,49
+259,W62,3,62
+260,W58,3,58
+261,W59,3,59
+262,W32,3,32
+263,W18,3,18
+264,W60,3,60
+265,W65,3,65
+266,W61,3,61
+267,W67,3,67
+268,W8,3,8
+269,W14,3,14
+270,W44,3,44
+271,W57,3,57
+272,W66,3,66
+273,W64,3,64
+274,W23,3,23
+275,"Sawai Madahpour",5,1
+276,"Dellopura II",4,211
+277,"Uttam Nagar",4,127
+278,"Idgah Road",4,85
+279,"Mukund Pur",4,6
+280,Mangolpuri,4,47
+281,"Janak Puri West",4,117
+282,Jharoda,4,8
+283,Malkaganj,4,9
+284,"Mangolpuri West",4,48
+285,Ballimaran,4,86
+286,"Uttam Nagar",4,127
+287,"Ram Nagar",4,87
+288,"Mansarovar Garden",4,98
+289,Naraina,4,152
+290,"Rohini North",4,49
+291,"Rohini Central",4,50
+292,"Ashok Nagar",4,246
+293,"Janak Puri West",4,117
+294,"Libas Pur",4,18
+295,Jhilmil,4,238
+296,Ganari,4,253
+297,Bhalswa,4,19
+298,"Jahangir Puri",4,20
+299,"Rohini North",4,21
+300,Rithala,4,22
+301,"Budh Vihar",4,23
+302,"Vijay Vihar",4,24
+303,"Sultanpuri East",4,37
+304,"Mangol Puri North",4,38
+305,"Durga Puri",4,245
+306,"Rohini East",4,51
+307,Naharpur,4,52
+308,"Pitampura South",4,53
+309,"Pitampura North",4,54
+310,"Shalimar Bagh North",4,55
+311,Brahanpuri,4,254
+312,"Shalimar Bagh South",4,56
+313,"Paschim Vihar South",4,57
+314,"Paschim Vihar North",4,58
+315,"Rani Bagh",4,59
+316,Ghonda,4,255
+317,"Pooth Kalan",4,25
+318,"Guru Harkishan Nagar",4,41
+319,Peragharhi,4,42
+320,"Bazar Sita Ram",4,83
+321,Timarpur,4,10
+322,Narela,4,1
+323,"Sarai Pipal Thala",4,15
+324,"Nangloi East",4,43
+325,Bankner,4,2
+326,"Mukherjee Nagar",4,11
+327,"Jahangir Puri",4,16
+328,"Vasant Kunj",4,171
+329,"Bhalswa Jahangir Puri",4,5
+330,Alipur,4,3
+331,"GTB Nagar",4,12
+332,"Samaypur Badli",4,17
+333,Bakhtawarpur,4,4
+334,Dhirpur,4,13
+335,"Adarsh Nagar",4,14
+336,"Sahibabad Daulat Pur",4,26
+337,Begumpur,4,27
+338,"Malviya Nagar",4,161
+339,"Rohini South",4,45
+340,"Mangolpuri East",4,46
+341,Bawana,4,28
+342,Karala,4,29
+343,"Sultanpur Majra",4,39
+344,"Sultanpuri South",4,40
+345,Mundaka,4,30
+346,"Nangloi Jat West",4,31
+347,Nilothi,4,32
+348,"Pratap Vihar",4,33
+349,Nithari,4,34
+350,"Kirari Suleman Nagar",4,35
+351,"Prem Nagar",4,36
+352,"Saraswati Vihar",4,60
+353,"Tri Nagar",4,61
+354,Rampura,4,62
+355,"Kohat Enclave",4,63
+356,"Shakur Pur",4,64
+357,"Nimri Colony",4,65
+358,"Sawan Park",4,66
+359,Wazirpur,4,67
+360,"Ashok Vihar",4,68
+361,"Kamla Nagar",4,69
+362,"Rana Pratap Bagh",4,70
+363,"Sangam Park",4,71
+364,"Model Town",4,72
+365,"Shastri Nagar",4,73
+366,"Inder Lok Colony",4,74
+367,"Kishan Ganj",4,75
+368,"Deputy Ganj",4,76
+369,"Kashmiri Gate",4,77
+370,"Majnu Ka Tilla",4,78
+371,"Jama Masjid",4,79
+372,"Chandni Chowk",4,80
+373,"Minto Road",4,81
+374,"Kucha Pandit",4,82
+375,"Turkman Gate",4,84
+376,Qasabpura,4,88
+377,Paharganj,4,89
+378,"Model Basti",4,90
+379,"Karol Bagh",4,91
+380,"Dev Nagar",4,92
+381,"Baljit Nagar",4,93
+382,"West Patel Nagar",4,94
+383,"East Patel Nagar",4,95
+384,"New Ranjit Nagar",4,96
+385,"Kirti Nagar",4,97
+386,"Moti Nagar",4,99
+387,"Karam Pura",4,100
+388,"Raja Garden",4,101
+389,"Raghubir Nagar",4,102
+390,"Manohar Park",4,120
+391,"Madipur A",4,103
+392,"Madipur B",4,104
+393,"Rajouri Garden",4,105
+394,"Tagore Garden",4,106
+395,"Vishnu Garden",4,107
+396,Khyala,4,108
+397,"Janakpuri North",4,109
+398,"Milap Nagar",4,119
+399,"Janakpuri II",4,110
+400,"Hari Nagar",4,111
+401,Mustafabad,4,268
+402,"Subhash Nagar",4,112
+403,"Mahabir Nagar",4,113
+404,"Tilak Nagar",4,114
+405,"Major Bhupinde Singh Nagar",4,115
+406,"Vikaspuri East",4,116
+407,Meethapur,4,202
+408,"Kanwar Singh Nagar",4,121
+409,"Khajoori Khas",4,269
+410,Hastsal,4,122
+411,Vikaspuri,4,123
+412,"Vikas Nagar",4,124
+413,Dabri,4,129
+414,Manglapuri,4,130
+415,"Tukh Mirpur",4,270
+416,Sagarpur,4,131
+417,"Sagarpur West",4,132
+418,Chhawala,4,133
+419,Kakrola,4,135
+420,"Kotla Mubarakpur",4,158
+421,Matiala,4,136
+422,Roshanpura,4,137
+423,Najafgarh,4,138
+424,"Dichaon Kalan",4,139
+425,"Village Huaz Rani",4,162
+426,Mahipalpur,4,144
+427,Khera,4,140
+428,Bijwasan,4,141
+429,"Raj Nagar",4,142
+430,Kapashera,4,143
+431,Adnisganj,4,159
+432,Palam,4,145
+433,"Sadh Nagar",4,146
+434,"Mahavir Enclave",4,147
+435,"Madhu Vihar",4,148
+436,"Rajinder Nagar",4,149
+437,"Amar Colony",4,160
+438,"Sat Nagar",4,150
+439,Inderpuri,4,151
+440,Nizamuddin,4,154
+441,"Lajpat Nagar",4,155
+442,Bhogal,4,156
+443,"Kasturba Nagar",4,157
+444,"Safdarjang Enclave",4,163
+445,"Hauz Khas",4,164
+446,"Vasant Vihar",4,165
+447,Munirka,4,166
+448,"RK Puram",4,167
+449,"Nanak Pura",4,168
+450,"Greater Kailash II",4,189
+451,"Lado Sarai",4,169
+452,"Mehrauli I",4,170
+453,Kishangarh,4,172
+454,"Sangam Vihar",4,177
+455,"Sunder Nagari",4,244
+456,Said-ul-Ajaib,4,173
+457,Chhatarpur,4,174
+458,"Aya Nagar",4,175
+459,Bhati,4,176
+460,"Sangam Vihar Central",4,187
+461,Deoli,4,178
+462,"Vishwas Nagar",4,226
+463,Tigri,4,179
+464,"Dakshin Puri Extn.",4,180
+465,Khanpur,4,181
+466,"Ambedkar Nagar",4,182
+467,Madangir,4,183
+468,"Push Vihar",4,184
+469,"Tughlakabad Extn.",4,185
+470,"Sangam Vihar West",4,186
+471,"Sangam Vihar East",4,188
+472,Shahdara,4,237
+473,"Chitranjan Park",4,190
+474,"Shahpur Jat",4,191
+475,"Greater Kailash I",4,192
+476,"East Of Kailash",4,194
+477,Govindpuri,4,195
+478,Kalkaji,4,196
+479,Tughlakabad,4,197
+480,"Pul Pehladpur",4,198
+481,Tekhand,4,199
+482,"Harkesh Nagar",4,200
+483,Jaitpur,4,201
+484,Badarpur,4,203
+485,Molarband,4,204
+486,Daryaganj,4,153
+487,"Zakir Nagar",4,205
+488,"Madanpur Khadar",4,207
+489,"Savita Vihar",4,208
+490,"Mayur Vihar Phase I",4,209
+491,"Dellopura I",4,210
+492,"New Ashok Nagar",4,212
+493,"Kalyan Puri",4,213
+494,Khichripur,4,214
+495,"Karawal Nagar East",4,266
+496,"Mauj Pur",4,252
+497,Kondli,4,215
+498,Gharoli,4,216
+499,"Vinod Nagar",4,217
+500,Mandawali,4,218
+501,"Mayur Vihar Phase II",4,219
+502,Patparganj,4,220
+503,"Kishan Ganj",4,221
+504,"Laxmi Nagar",4,222
+505,Shakarpur,4,223
+506,"Pandav Nagar",4,224
+507,"Anand Vihar",4,225
+508,"IP Extension",4,227
+509,"Preet Vihar",4,228
+510,"Krishna Nagar",4,229
+511,"Geeta Colony",4,230
+512,Ghondli,4,231
+513,Anarkali,4,232
+514,"Dharam Pura",4,233
+515,"Gandhi Nagar",4,234
+516,"Azad Nagar",4,235
+517,"Raghubar Pura",4,236
+518,"Nehru Vihar",4,267
+519,"Vivek Vihar",4,239
+520,"Dilshad Colony",4,240
+521,"Dilshad Garden",4,241
+522,"New Seema Puri",4,242
+523,"Nand Nagri",4,243
+524,"Ram Nagar",4,247
+525,"Welcome Colony",4,248
+526,"Chauhan Bangar",4,249
+527,Zaffrabad,4,250
+528,"New Usmanpur",4,251
+529,Sriniwaspuri,4,193
+530,"Yamuna Vihar",4,256
+531,"Karawal Nagar West",4,271
+532,"Subhash Mohalla",4,257
+533,"Kadam Puri",4,258
+534,"Janta Colony",4,259
+535,"Babar Pur",4,260
+536,Jiwanpur,4,261
+537,Gokalpur,4,262
+538,Saboli,4,263
+539,"Harsh Vihar",4,264
+540,"Shiv Vihar",4,265
+541,Okhla,4,206
+542,"Sadatpur Gujran",4,272
+543,"Nangli Sakravati",4,134
+544,Nawada,4,126
+545,"Mohan Garden",4,125
+546,"Quammruddin Nagar",4,44
+547,Bindapur,4,128
+548,"Janak Puri South",4,118
+549,Burari,4,7
+550,"Vasant Kunj",4,171
+551,"Malviya Nagar",4,161
+552,Daryaganj,4,153
+553,"Karawal Nagar East",4,266
+554,"Mauj Pur",4,252
+555,"Nehru Vihar",4,267
+556,Sriniwaspuri,4,193
+557,Okhla,4,206
+558,"Dellopura II",4,211
+559,"Uttam Nagar",4,127
+560,"Janak Puri West",4,117
+561,"Nangli Sakravati",4,134
+562,Nawada,4,126
+563,"Mohan Garden",4,125
+564,"Quammruddin Nagar",4,44
+565,Bindapur,4,128
+566,"Janak Puri South",4,118
+567,Burari,4,7
+568,Others,4,300
+569,Others,4,300
+570,Others,4,300
+571,"ATOON KALAN",5,300
+572,"BARH KHIDARPUR",5,300
+573,BAMBORI,5,300
+574,BHUDERDA,5,300
+575,BORIF,5,300
+576,"DHAMUN KHURD",5,300
+577,DONDRI,5,300
+578,GAMBHIRA,5,300
+579,GOTHRA,5,300
+580,HIMMATPURA,5,300
+581,"JAMOOL KHERA",5,300
+582,JEENAPUR,5,300
+583,KARELA,5,300
+584,KAMODA,5,300
+585,KHATUPURA,5,300
+586,"KHEDALI KALAN",5,300
+587,KHILCHIPUR,5,300
+588,KHIDARPUR,5,300
+589,KUSHATALA,5,300
+590,"KUTALPURA MALIYAN",5,300
+591,LODHIPURA,5,300
+592,MADHOSINGHPURA,5,300
+593,MATHURAPUR,5,300
+594,"NIMLI KHURD",5,300
+595,PACHEEPLYA,5,300
+596,RAMSINGHPURA,5,300
+597,SHERPUR,5,300
+598,KHAWA,5,300
+599,"JATWARA KHURD",5,300
+600,SOORWAL,5,300
+601,"ATOON KHURD",5,300
+602,RAMRI,5,300
+603,ALANPUR,5,300
+604,"KUTALPURA JATAN",5,300
+605,THEENGLA,5,300
+606,CHAKCHENPURA,5,300
+607,KHERDA,5,300
+608,32,5,32
+609,28,5,28
+610,29,5,29
+611,30,5,30
+612,20,5,20
+613,25,5,25
+614,34,5,34
+615,33,5,33
+616,31,5,31
+617,27,5,27
+618,35,5,35
+619,19,5,19
+620,21,5,21
+621,23,5,23
+622,24,5,24
+623,26,5,26
+624,22,5,22
+626,37,5,37
+627,17,5,17
+628,15,5,15
+629,12,5,12
+630,44,5,44
+631,16,5,16
+632,18,5,18
+633,39,5,39
+634,40,5,40
+635,41,5,41
+636,36,5,36
+637,38,5,38
+638,2,5,2
+639,9,5,9
+640,8,5,8
+641,7,5,7
+642,10,5,10
+643,11,5,11
+644,13,5,13
+645,14,5,14
+646,43,5,43
+647,42,5,42
+648,45,5,45
+649,3,5,3
+650,5,5,5
+651,6,5,6
+652,4,5,4
+653,"QUILA RANTHAMBORE",5,300
+654,Tumkur,6,300
+655,Other,7,300
+656,W48,7,48
+657,W9,7,9
+658,W7,7,7
+659,W53,7,53
+660,W54,7,54
+661,W24,7,24
+662,W15,7,15
+663,W19,7,19
+664,W10,7,10
+665,W27,7,27
+666,W31,7,31
+667,W33,7,33
+668,W29,7,29
+669,W42,7,42
+670,W46,7,46
+671,W47,7,47
+672,W37,7,37
+673,W20,7,20
+674,W43,7,43
+675,W18,7,18
+676,W11,7,11
+677,W8,7,8
+678,W51,7,51
+679,W49,7,49
+680,W35,7,35
+681,W41,7,41
+682,W13,7,13
+683,W22,7,22
+684,W28,7,28
+685,W39,7,39
+686,W45,7,45
+687,W34,7,34
+688,W16,7,16
+689,W4,7,4
+690,W21,7,21
+691,W40,7,40
+692,W36,7,36
+693,W17,7,17
+694,W32,7,32
+695,W14,7,14
+696,W23,7,23
+697,W44,7,44
+698,W6,7,6
+699,W12,7,12
+700,W52,7,52
+701,W2,7,2
+702,W5,7,5
+703,W38,7,38
+704,W3,7,3
+705,W1,7,1
+933,"RN Ward",2,13
+934,"RC Ward",2,14
+935,"RS Ward",2,5
+936,"PN Ward",2,11
+937,"PS Ward",2,1
+938,"KW Ward",2,4
+939,"HW Ward",2,6
+940,Others-300,2,7
+941,Others-300,2,8
+942,"HE Ward",2,9
+943,"KE Ward",2,10
+944,"T Ward",2,12
+945,"S Ward",2,15
+946,"L Ward",2,16
+947,"N Ward",2,17
+948,"ME Ward",2,18
+949,"MW Ward",2,19
+950,"FN Ward",2,24
+951,"GN Ward",2,25
+952,"FS Ward",2,26
+953,"GS Ward",2,27
+954,"D Ward",2,23
+955,"E Ward",2,22
+956,"B Ward",2,21
+957,"C Ward",2,20
+958,"A Ward",2,2
+959,Others-300,2,3
+960,Kamothe,2,28
+961,Adiwali,2,29
+962,Thrupp,2,30
+963,Dhansar,2,31
+964,Karaghar,2,32
+965,Hove,2,33
+966,Bender,2,34
+967,Bid,2,35
+968,"Taloje Majkur",2,36
+969,Bisawar,2,37
+970,Rohinjan,2,38
+971,"Taloja Panchnand",2,39
+972,Karawale,2,40
+973,Nagjhari,2,41
+974,Dont,2,42
+975,Chal,2,43
+976,"Devicha Pada",2,44
+977,Paleku,2,45
+978,Theodore,2,46
+979,Tembhode,2,47
+980,Wahwali,2,48
+981,Padghe,2,49
+982,Roadpali,2,50
+983,Kalunde,2,51
+984,Asudgaon,2,52
+985,Panvel,2,53
+986,Kalamboli,2,54
+987,Navade,2,55
+988,Ghot,2,56
+989,"Vasi -1",2,57
+990,"Vasi -2",2,58
+991,"Vasi -3",2,59
+992,"Vasi -4",2,60
+993,"Vasi -5",2,61
+994,"Vasi -6",2,62
+995,"Vasi -7",2,63
+996,"Vasi -8",2,64
+997,"Vasi -9",2,65
+998,"Vasi -10",2,66
+999,"Vasi -11",2,67
+1000,"Vasi -12",2,68
+1001,"Vasi -13",2,69
+1002,"Vasi -14",2,70
+1003,"Vasi -15",2,71
+1004,"Vasi -16",2,72
+1005,"Vasi -17",2,73
+1006,"Vasi -18",2,74
+1007,"Vasi -19",2,75
+1008,"Vasi -20",2,76
+1009,"Vasi -21",2,77
+1010,"Vasi -22",2,78
+1011,"Vasi -23",2,79
+1012,"Vasi -24",2,80
+1013,"Vasi -25",2,81
+1014,"Vasi -26",2,82
+1015,"Vasi -27",2,83
+1016,"Vasi -28",2,84
+1017,"Vasi -29",2,85
+1018,"Vasi -30",2,86
+1019,"Vasi -31",2,87
+1020,"Vasi -32",2,88
+1021,"Vasi -33",2,89
+1022,"Vasi -34",2,90
+1023,"Vasi -35",2,91
+1024,"Vasi -36",2,92
+1025,"Vasi -37",2,93
+1026,"Vasi -38",2,94
+1027,"Vasi -39",2,95
+1028,"Vasi -40",2,96
+1029,"Vasi -41",2,97
+1030,"Vasi -42",2,98
+1031,"Vasi -43",2,99
+1032,"Vasi -44",2,100
+1033,"Vasi -45",2,101
+1034,"Vasi -46",2,102
+1035,"Vasi -47",2,103
+1036,"Vasi -48",2,104
+1037,"Vasi -49",2,105
+1038,"Vasi -50",2,106
+1039,"Vasi -51",2,107
+1040,"Vasi -52",2,108
+1041,"Vasi -53",2,109
+1042,"Vasi -54",2,110
+1043,"Vasi -55",2,111
+1044,"Vasi -56",2,112
+1045,"Vasi -57",2,113
+1046,"Vasi -58",2,114
+1047,"Vasi -59",2,115
+1048,"Vasi -60",2,116
+1049,"Vasi -61",2,117
+1050,"Vasi -62",2,118
+1051,"Vasi -63",2,119
+1052,"Vasi -64",2,120
+1053,"Vasi -65",2,121
+1054,"Vasi -66",2,122
+1055,"Vasi -67",2,123
+1056,"Vasi -68",2,124
+1057,"Vasi -69",2,125
+1058,"Vasi -70",2,126
+1059,"Vasi -71",2,127
+1060,"Vasi -72",2,128
+1061,"Vasi -73",2,129
+1062,"Vasi -74",2,130
+1063,"Vasi -75",2,131
+1064,"Vasi -76",2,132
+1065,"Vasi -77",2,133
+1066,"Vasi -78",2,134
+1067,"Vasi -79",2,135
+1068,"Vasi -80",2,136
+1069,"Vasi -81",2,137
+1070,"Vasi -82",2,138
+1071,"Vasi -83",2,139
+1072,"Vasi -84",2,140
+1073,"Vasi -85",2,141
+1074,"Vasi -86",2,142
+1075,"Vasi -87",2,143
+1076,"Vasi -88",2,144
+1077,"Vasi -89",2,145
+1078,"Vasi -90",2,146
+1079,"Vasi -91",2,147
+1080,"Vasi -92",2,148
+1081,"Vasi -93",2,149
+1082,"Vasi -94",2,150
+1083,"Vasi -95",2,151
+1084,"Vasi -96",2,152
+1085,"Vasi -97",2,153
+1086,"Vasi -98",2,154
+1087,"Vasi -99",2,155
+1088,"Vasi -100",2,156
+1089,"Vasi -101",2,157
+1090,"Vasi -102",2,158
+1091,"Vasi -103",2,159
+1092,"Vasi -104",2,160
+1093,"Vasi -105",2,161
+1094,"Vasi -106",2,162
+1095,"Vasi -107",2,163
+1096,"Vasi -108",2,164
+1097,"Vasi -109",2,165
+1098,"Vasi -110",2,166
+1099,"Vasi -111",2,167
+1100,"Vasi -112",2,168
+1101,"Vasi -113",2,169
+1102,"Vasi -114",2,170
+1103,"Vasi -115",2,171
+1104,"Dombivile -1",2,172
+1105,"Dombivile -2",2,173
+1106,"Dombivile -3",2,174
+1107,"Dombivile -4",2,175
+1108,"Dombivile -5",2,176
+1109,"Dombivile -6",2,177
+1110,"Dombivile -7",2,178
+1111,"Dombivile -8",2,179
+1112,"Dombivile -9",2,180
+1113,"Dombivile -10",2,181
+1114,"Dombivile -11",2,182
+1115,"Dombivile -12",2,183
+1116,"Dombivile -13",2,184
+1117,"Dombivile -14",2,185
+1118,"Dombivile -15",2,186
+1119,"Dombivile -16",2,187
+1120,"Dombivile -17",2,188
+1121,"Dombivile -18",2,189
+1122,"Dombivile -19",2,190
+1123,"Dombivile -20",2,191
+1124,"Dombivile -21",2,192
+1125,"Dombivile -22",2,193
+1126,"Dombivile -23",2,194
+1127,"Dombivile -24",2,195
+1128,"Dombivile -25",2,196
+1129,"Dombivile -26",2,197
+1130,"Dombivile -27",2,198
+1131,"Dombivile -28",2,199
+1132,"Dombivile -29",2,200
+1133,"Dombivile -30",2,201
+1134,"Dombivile -31",2,202
+1135,"Dombivile -32",2,203
+1136,"Dombivile -33",2,204
+1137,"Dombivile -34",2,205
+1138,"Dombivile -35",2,206
+1139,"Dombivile -36",2,207
+1140,"Dombivile -37",2,208
+1141,"Dombivile -38",2,209
+1142,"Dombivile -39",2,210
+1143,"Dombivile -40",2,211
+1144,"Dombivile -41",2,212
+1145,"Dombivile -42",2,213
+1146,"Dombivile -43",2,214
+1147,"Dombivile -44",2,215
+1148,"Dombivile -45",2,216
+1149,"Dombivile -46",2,217
+1150,"Dombivile -47",2,218
+1151,"Dombivile -48",2,219
+1152,"Dombivile -49",2,220
+1153,"Dombivile -50",2,221
+1154,"Dombivile -51",2,222
+1155,"Dombivile -52",2,223
+1156,"Dombivile -53",2,224
+1157,"Dombivile -54",2,225
+1158,"Dombivile -55",2,226
+1159,"Dombivile -56",2,227
+1160,"Dombivile -57",2,228
+1161,"Dombivile -58",2,229
+1162,"Dombivile -59",2,230
+1163,"Dombivile -60",2,231
+1164,"Dombivile -61",2,232
+1165,"Dombivile -62",2,233
+1166,"Dombivile -63",2,234
+1167,"Dombivile -64",2,235
+1168,"Dombivile -65",2,236
+1169,"Dombivile -66",2,237
+1170,"Dombivile -67",2,238
+1171,"Dombivile -68",2,239
+1172,"Dombivile -69",2,240
+1173,"Dombivile -70",2,241
+1174,"Dombivile -71",2,242
+1175,"Dombivile -72",2,243
+1176,"Dombivile -73",2,244
+1177,"Dombivile -74",2,245
+1178,"Dombivile -75",2,246
+1179,"Dombivile -76",2,247
+1180,"Dombivile -77",2,248
+1181,"Dombivile -78",2,249
+1182,"Dombivile -79",2,250
+1183,"Dombivile -80",2,251
+1184,"Dombivile -81",2,252
+1185,"Dombivile -82",2,253
+1186,"Dombivile -83",2,254
+1187,"Dombivile -84",2,255
+1188,"Dombivile -85",2,256
+1189,"Dombivile -86",2,257
+1190,"Dombivile -87",2,258
+1191,"Dombivile -88",2,259
+1192,"Dombivile -89",2,260
+1193,"Dombivile -90",2,261
+1194,"Dombivile -91",2,262
+1195,"Dombivile -92",2,263
+1196,"Dombivile -93",2,264
+1197,"Dombivile -94",2,265
+1198,"Dombivile -95",2,266
+1199,"Dombivile -96",2,267
+1200,"Dombivile -97",2,268
+1201,"Dombivile -98",2,269
+1202,"Dombivile -99",2,270
+1203,"Dombivile -100",2,271
+1204,"Dombivile -101",2,272
+1205,"Dombivile -102",2,273
+1206,"Dombivile -103",2,274
+1207,"Dombivile -104",2,275
+1208,"Dombivile -105",2,276
+1209,"Dombivile -106",2,277
+1210,"Dombivile -107",2,278
+1211,"Dombivile -108",2,279
+1212,"Dombivile -109",2,280
+1213,"Dombivile -110",2,281
+1214,"Dombivile -111",2,282
+1215,"Dombivile -112",2,283
+1216,"Dombivile -113",2,284
+1217,"Dombivile -114",2,285
+1218,"Dombivile -115",2,286
+1219,"Dombivile -116",2,287
+1220,"Dombivile -117",2,288
+1221,"Dombivile -118",2,289
+1222,"Dombivile -119",2,290
+1223,"Dombivile -120",2,291
+1224,"Dombivile -121",2,292
+1225,"Dombivile -122",2,293
+1226,"NMMC - 1",2,294
+1227,"NMMC - 2",2,295
+1228,"NMMC - 3",2,296
+1229,"NMMC - 4",2,297
+1230,"NMMC - 5",2,298
+1231,"NMMC - 6",2,299
+1232,"NMMC - 7",2,300
+1233,"NMMC - 8",2,301
+1234,"NMMC - 9",2,302
+1235,"NMMC - 10",2,303
+1236,"NMMC - 11",2,304
+1237,"NMMC - 12",2,305
+1238,"NMMC - 13",2,306
+1239,"NMMC - 14",2,307
+1240,"NMMC - 15",2,308
+1241,"NMMC - 16",2,309
+1242,"NMMC - 17",2,310
+1243,"NMMC - 18",2,311
+1244,"NMMC - 19",2,312
+1245,"NMMC - 20",2,313
+1246,"NMMC - 21",2,314
+1247,"NMMC - 22",2,315
+1248,"NMMC - 23",2,316
+1249,"NMMC - 24",2,317
+1250,"NMMC - 25",2,318
+1251,"NMMC - 26",2,319
+1252,"NMMC - 27",2,320
+1253,"NMMC - 28",2,321
+1254,"NMMC - 29",2,322
+1255,"NMMC - 30",2,323
+1256,"NMMC - 31",2,324
+1257,"NMMC - 32",2,325
+1258,"NMMC - 33",2,326
+1259,"NMMC - 34",2,327
+1260,"NMMC - 35",2,328
+1261,"NMMC - 36",2,329
+1262,"NMMC - 37",2,330
+1263,"NMMC - 38",2,331
+1264,"NMMC - 39",2,332
+1265,"NMMC - 40",2,333
+1266,"NMMC - 41",2,334
+1267,"NMMC - 42",2,335
+1268,"NMMC - 43",2,336
+1269,"NMMC - 44",2,337
+1270,"NMMC - 45",2,338
+1271,"NMMC - 46",2,339
+1272,"NMMC - 47",2,340
+1273,"NMMC - 48",2,341
+1274,"NMMC - 49",2,342
+1275,"NMMC - 50",2,343
+1276,"NMMC - 51",2,344
+1277,"NMMC - 52",2,345
+1278,"NMMC - 53",2,346
+1279,"NMMC - 54",2,347
+1280,"NMMC - 55",2,348
+1281,"NMMC - 56",2,349
+1282,"NMMC - 57",2,350
+1283,"NMMC - 58",2,351
+1284,"NMMC - 59",2,352
+1285,"NMMC - 60",2,353
+1286,"NMMC - 61",2,354
+1287,"NMMC - 62",2,355
+1288,"NMMC - 63",2,356
+1289,"NMMC - 64",2,357
+1290,"NMMC - 65",2,358
+1291,"NMMC - 66",2,359
+1292,"NMMC - 67",2,360
+1293,"NMMC - 68",2,361
+1294,"NMMC - 69",2,362
+1295,"NMMC - 70",2,363
+1296,"NMMC - 71",2,364
+1297,"NMMC - 72",2,365
+1298,"NMMC - 73",2,366
+1299,"NMMC - 74",2,367
+1300,"NMMC - 75",2,368
+1301,"NMMC - 76",2,369
+1302,"NMMC - 77",2,370
+1303,"NMMC - 78",2,371
+1304,"NMMC - 79",2,372
+1305,"NMMC - 80",2,373
+1306,"NMMC - 81",2,374
+1307,"NMMC - 82",2,375
+1308,"NMMC - 83",2,376
+1309,"NMMC - 84",2,377
+1310,"NMMC - 85",2,378
+1311,"NMMC - 86",2,379
+1312,"NMMC - 87",2,380
+1313,"NMMC - 88",2,381
+1314,"NMMC - 89",2,382
+1315,"NMMC - 90",2,383
+1316,"NMMC - 91",2,384
+1317,"NMMC - 92",2,385
+1318,"NMMC - 93",2,386
+1319,"NMMC - 94",2,387
+1320,"NMMC - 95",2,388
+1321,"NMMC - 96",2,389
+1322,"NMMC - 97",2,390
+1323,"NMMC - 98",2,391
+1324,"NMMC - 99",2,392
+1325,"NMMC - 100",2,393
+1326,"NMMC - 101",2,394
+1327,"NMMC - 102",2,395
+1328,"NMMC - 103",2,396
+1329,"NMMC - 104",2,397
+1330,"NMMC - 105",2,398
+1331,"NMMC - 106",2,399
+1332,"NMMC - 107",2,400
+1333,"NMMC - 108",2,401
+1334,"NMMC - 109",2,402
+1335,"NMMC - 110",2,403
+1336,"NMMC - 111",2,404
+1588,"Owala And Kasarwadawali",2,405
+1589,"Kavesar And Wagh",2,406
+1590,"Patlipada,Dongar",2,407
+1591,Bramhand,2,408
+1592,Kolshet,2,409
+1593,Manoramanagar,2,410
+1594,Azadnagar-Manpad,2,411
+1595,Chithalsar-Manpa,2,412
+1596,"Kavesar And Wagh",2,413
+1597,"Vasant Vihar",2,414
+1598,"Yeur Pawar Nagar",2,415
+1599,"Lokmanya Nagar P",2,416
+1600,"Zanje Nagar",2,417
+1601,"Pareira Nagar",2,418
+1602,"Lokmanya Nagar P",2,419
+1603,"Shashtri Nagar",2,420
+1604,"Shivai Nagar",2,421
+1605,"Bhimnagar Ravi Estate",2,422
+1606,"Laxmi Nagar Chirag Nagar",2,423
+1607,Subashnagar-Gandhinagar,2,424
+1608,"Tulashi Dham Na",2,425
+1609,Dhokali,2,426
+1610,Balkum,2,427
+1611,Majiwade,2,428
+1612,"Shreerang Societ",2,429
+1613,"Thane - 26",2,430
+1614,"Thane - 27",2,431
+1615,"Vartak Nagar",2,432
+1616,"Samata Nagar Lokmanya Nagar Pada No.1",2,433
+1617,"Davale Nagar",2,434
+1618,"Mhada Vasahat Paanchpakhadi",2,435
+1619,"Rupadevi Tekadi Indiranagar",2,436
+1620,"Hanuman Nagar, Wagle Estate",2,437
+1621,"Sathe Nagar, Wag",2,438
+1622,"Ambevadi, Jaibhavani Nagar",2,439
+1623,"Ambika Nagar",2,440
+1624,"Karwale Nagar",2,441
+1625,"Kamgar Rugnalay",2,442
+1626,"Gyaneshwar Nagar",2,443
+1627,"Ramchandra Nagar",2,444
+1628,"Siddheshwar Talao Lake",2,445
+1629,"Charai Chandanwadi",2,446
+1630,"Kolbad Hasannagar",2,447
+1631,"Thane - 44",2,448
+1632,"Central Maidan Jail Talao",2,449
+1633,"K Villa Rabodi No.1",2,450
+1634,"Thane - 47",2,451
+1635,"Thane - 48",2,452
+1636,"Vrindava Society Saket Complex",2,453
+1637,"Thane - 50",2,454
+1638,"Thane - 51",2,455
+1639,"Thane - 52",2,456
+1640,"Thane - 53",2,457
+1641,"Thane - 54",2,458
+1642,"Thane - 55",2,459
+1643,"Thane - 56",2,460
+1644,"Thane - 57",2,461
+1645,"Thane - 58",2,462
+1646,"Chendani Koliwad",2,463
+1647,"Dadoji Kondev Stadium",2,464
+1648,"Dhobi Aali Kharkar Aali",2,465
+1649,"Masunda Talav",2,466
+1650,"Kacharali Talav",2,467
+1651,"Ghantali Vishnu Nagar",2,468
+1652,"Brahman Society B Cabin",2,469
+1653,"Bhaskar Colony Damani Estate",2,470
+1654,"Ravi Compound",2,471
+1655,"Gurukul Soceity Panchpakadi",2,472
+1656,"Jijamata Nagar",2,473
+1657,"Louis Wadi",2,474
+1658,Hajuri,2,475
+1659,"Padval Nagar",2,476
+1660,"Balsar Feorday Company Area",2,477
+1661,"Aadarsh Bal Vidyamandir",2,478
+1662,Shreenagar,2,479
+1663,"Shanti Nagar",2,480
+1664,"C.P. Talao Lake",2,481
+1665,Junagaon,2,482
+1666,"Warli Pada",2,483
+1667,"Ganesh Chauk Area",2,484
+1668,"T.M.C.Area No. 23",2,485
+1669,"Ratan Bai Compound Gavand Baug",2,486
+1670,"Shivaji Nagar Bhag Wagle Estate",2,487
+1671,"D Souza Wadi",2,488
+1672,"Railadevi Mental Hospital",2,489
+1673,"Anand Nagar And Gandhi Nagar",2,490
+1674,"Kopri Gaon",2,491
+1675,"Kopri Colony",2,492
+1676,"Premnagar And Daulatnagar",2,493
+1677,"Chendani Koliwad",2,494
+1678,"Matashri Jijamata Marg Parisar",2,495
+1679,"Thane - 92",2,496
+1680,"Thane - 93",2,497
+1681,"Thane - 94",2,498
+1682,"Thane - 95",2,499
+1683,"Thane - 96",2,500
+1684,"Thane - 97",2,501
+1685,"Thane - 98",2,502
+1686,"Thane - 99",2,503
+1687,"Thane - 100",2,504
+1688,"Thane - 101",2,505
+1689,"Thane - 012",2,506
+1690,"Thane - 103",2,507
+1691,"Thane - 104",2,508
+1692,"Thane - 105",2,509
+1693,"Thane - 106",2,510
+1694,"Thane - 107",2,511
+1695,"Thane - 108",2,512
+1696,"Thane - 109",2,513
+1697,"Thane - 110",2,514
+1698,"Thane - 111",2,515
+1699,"Thane - 112",2,516
+1700,"Thane - 113",2,517
+1701,"Thane - 114",2,518
+1702,"Thane -115",2,519
+1703,"Thane - 116",2,520
+1704,"Meerut - 1",9,1
+1705,"Meerut - 2",9,2
+1706,"Meerut - 3",9,3
+1707,"Meerut - 4",9,4
+1708,"Meerut - 5",9,5
+1709,"Meerut - 6",9,6
+1710,"Meerut - 7",9,7
+1711,"Meerut - 8",9,8
+1712,"Meerut - 9",9,9
+1713,"Meerut - 10",9,10
+1714,"Meerut - 11",9,11
+1715,"Meerut - 12",9,12
+1716,"Meerut - 13",9,13
+1717,"Meerut - 14",9,14
+1718,"Meerut - 15",9,15
+1719,"Meerut - 16",9,16
+1720,"Meerut - 17",9,17
+1721,"Meerut - 18",9,18
+1722,"Meerut - 19",9,19
+1723,"Meerut - 20",9,20
+1724,"Meerut - 21",9,21
+1725,"Meerut - 22",9,22
+1726,"Meerut - 23",9,23
+1727,"Meerut - 24",9,24
+1728,"Meerut - 25",9,25
+1729,"Meerut - 26",9,26
+1730,"Meerut - 27",9,27
+1731,"Meerut - 28",9,28
+1732,"Meerut - 29",9,29
+1733,"Meerut - 30",9,30
+1734,"Meerut - 31",9,31
+1735,"Meerut - 32",9,32
+1736,"Meerut - 33",9,33
+1737,"Meerut - 34",9,34
+1738,"Meerut - 35",9,35
+1739,"Meerut - 36",9,36
+1740,"Meerut - 37",9,37
+1741,"Meerut - 38",9,38
+1742,"Meerut - 39",9,39
+1743,"Meerut - 40",9,40
+1744,"Meerut - 41",9,41
+1745,"Meerut - 42",9,42
+1746,"Meerut - 43",9,43
+1747,"Meerut - 44",9,44
+1748,"Meerut - 45",9,45
+1749,"Meerut - 46",9,46
+1750,"Meerut - 47",9,47
+1751,"Meerut - 48",9,48
+1752,"Meerut - 49",9,49
+1753,"Meerut - 50",9,50
+1754,"Meerut - 51",9,51
+1755,"Meerut - 52",9,52
+1756,"Meerut - 53",9,53
+1757,"Meerut - 54",9,54
+1758,"Meerut - 55",9,55
+1759,"Meerut - 56",9,56
+1760,"Meerut - 57",9,57
+1761,"Meerut - 58",9,58
+1762,"Meerut - 59",9,59
+1763,"Meerut - 60",9,60
+1764,"Meerut - 61",9,61
+1765,"Meerut - 62",9,62
+1766,"Meerut - 63",9,63
+1767,"Meerut - 64",9,64
+1768,"Meerut - 65",9,65
+1769,"Meerut - 66",9,66
+1770,"Meerut - 67",9,67
+1771,"Meerut - 68",9,68
+1772,"Meerut - 69",9,69
+1773,"Meerut - 70",9,70
+1774,"Meerut - 71",9,71
+1775,"Meerut - 72",9,72
+1776,"Meerut - 73",9,73
+1777,"Meerut - 74",9,74
+1778,"Meerut - 75",9,75
+1779,"Meerut - 76",9,76
+1780,"Meerut - 77",9,77
+1781,"Meerut - 78",9,78
+1782,"Meerut - 79",9,79
+1783,"Meerut - 80",9,80
+1784,"Meerut - 81",9,81
+1785,"Meerut - 82",9,82
+1786,"Meerut - 83",9,83
+1787,"Meerut - 84",9,84
+1788,"Meerut - 85",9,85
+1789,"Meerut - 86",9,86
+1790,"Meerut - 87",9,87
+1791,"Meerut - 88",9,88
+1792,"Meerut - 89",9,89
+1793,"Meerut - 90",9,90
+1794,"Meerut - 300",9,300
+2127,Test_Ward,1,301
